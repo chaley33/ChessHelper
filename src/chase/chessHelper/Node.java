@@ -1,5 +1,7 @@
 package chase.chessHelper;
 
+import chase.chessHelper.piece.Piece;
+
 public class Node
 {
 	ChessHelper sketch;
